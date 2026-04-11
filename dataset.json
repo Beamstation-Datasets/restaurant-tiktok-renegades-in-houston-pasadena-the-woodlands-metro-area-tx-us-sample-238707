@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "--Social Platform Gap-- \n\nHigh IG followers (>10k) but near-zero activity on TikTok presence. Perfect for social media and content agencies.",
+  "config_name": "Restaurant TikTok Renegades in Houston-Pasadena-The Woodlands Metro Area, TX, US",
+  "export_job_id": "b3496005-49d6-4511-903a-8da5bbbb0b90",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 238707,
+  "location_name": "Houston-Pasadena-The Woodlands, TX",
+  "location_type": "metro",
+  "repo_name": "restaurant-tiktok-renegades-in-houston-pasadena-the-woodlands-metro-area-tx-us-sample-238707",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/238707/beamstation_238707_restaurants-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv",
+  "sample_pct": 9.65,
+  "sample_records": 11,
+  "sample_sha256": "683af8bdc5b46a065f51006067cb3b12eebfbdfdedd80c30149772e5cfbcc907",
+  "sample_size_bytes": 58307,
+  "total_records": 114,
+  "updated_at": "2026-04-08T05:37:47.447463+00:00"
+}
