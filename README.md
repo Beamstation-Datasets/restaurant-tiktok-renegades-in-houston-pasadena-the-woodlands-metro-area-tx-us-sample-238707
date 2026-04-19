@@ -9,9 +9,9 @@
 | Dataset ID | `238707` |
 | Location | Houston-Pasadena-The Woodlands, TX |
 | Category | Restaurants |
-| Full dataset size | 114 records |
-| Free sample size | 11 records (9.65%) |
-| Last export | 2026-04-08T05:37:47.447463+00:00 |
+| Full dataset size | 111 records |
+| Free sample size | 11 records (9.91%) |
+| Last export | 2026-04-15T09:41:49.148451+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-houston-pasadena-the-woodlands-metro-area-tx-us-sample-238707/releases/download/sample-latest/beamstation_238707_restaurants-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
