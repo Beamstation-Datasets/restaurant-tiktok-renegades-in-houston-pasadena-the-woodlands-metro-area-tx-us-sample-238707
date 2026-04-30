@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0b415ac9-d25c-4afa-98ee-e6bfb5107160",
+  "export_job_id": "39daae17-d811-46ea-a5da-d47da9a2b3f2",
   "id_short": 238707,
-  "published_at": "2026-04-22T19:25:28Z",
+  "published_at": "2026-04-30T07:09:56Z",
   "repo_name": "restaurant-tiktok-renegades-in-houston-pasadena-the-woodlands-metro-area-tx-us-sample-238707",
   "sample_asset_name": "beamstation_238707_restaurants-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/238707/beamstation_238707_restaurants-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv",
-  "sample_records": 9,
-  "sample_sha256": "92ed9374b23d1fb7452892816453f82d8664d349306413b630e340799241456a",
-  "sample_size_bytes": 51318,
-  "total_records": 91
+  "sample_records": 12,
+  "sample_sha256": "ebd7c09c05fd1de72c241c8f3a45babb274522246b81a0deea63c0533e53da79",
+  "sample_size_bytes": 68609,
+  "total_records": 123
 }
