@@ -1,6 +1,6 @@
 # Restaurant TikTok Renegades in Houston-Pasadena-The Woodlands Metro Area, TX, US
 
-> Free BeamStation sample export with 9 rows and masked direct-contact fields.
+> Free BeamStation sample export with 12 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `238707` |
 | Location | Houston-Pasadena-The Woodlands, TX |
 | Category | Restaurants |
-| Full dataset size | 91 records |
-| Free sample size | 9 records (9.89%) |
-| Last export | 2026-04-22T17:03:03.768895+00:00 |
+| Full dataset size | 123 records |
+| Free sample size | 12 records (9.76%) |
+| Last export | 2026-04-29T16:59:15.619766+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-houston-pasadena-the-woodlands-metro-area-tx-us-sample-238707/releases/download/sample-latest/beamstation_238707_restaurants-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
